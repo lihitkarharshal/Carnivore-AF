@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+package.json
+generate_book_html.js
+merge_pdfs.js
+combine.js
+book_paged.html
+content.pdf
+Carnivore_AF_Full.md
+Title_Page.md
